@@ -1,0 +1,22 @@
+.b1, .b2, .b3, .b4, .b5 {
+  width: 100px;
+  height: 70px;
+  border-radius: 50px;
+  outline: none; }
+
+.b1 {
+  background-color: #f00; }
+
+.b2 {
+  background-color: #058; }
+
+.b3 {
+  background-color: #eee; }
+
+.b4 {
+  background-color: #fff; }
+
+.b5 {
+  background-color: #999; }
+
+/*# sourceMappingURL=style.css.map */
